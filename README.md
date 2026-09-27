@@ -1,1 +1,0 @@
-# Pesquisa-de-satisfa-o-tuboweb.py
